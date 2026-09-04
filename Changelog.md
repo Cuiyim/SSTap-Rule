@@ -1,4 +1,17 @@
 # 更新日志 Change Log
+### 2025年6月26日
+
+新增 `MapleStory-Universe,冒险岛N-迅游` 游戏规则 By @hasegawa-taku
+
+新增 `Xbox-Cloud-Gaming-UU,Xbox云游戏-UU` 游戏规则 By @hasegawa-taku
+
+### 2024年1月3日
+
+By @izumiChan16
+
+新增 `Stardew Valley,星露谷物语` 游戏规则
+
+新增 `Lethal Company,致命公司` 游戏规则
 
 ### 2023年8月11日
 
